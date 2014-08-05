@@ -8,3 +8,5 @@ C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProj
 C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.csproj.GenerateResource.Cache
 C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.exe
 C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.pdb
+C:\Users\Filip\Documents\Visual Studio 2013\Projects\CerealProject\CerealProject\obj\Debug\CerealProject.exe
+C:\Users\Filip\Documents\Visual Studio 2013\Projects\CerealProject\CerealProject\obj\Debug\CerealProject.pdb
