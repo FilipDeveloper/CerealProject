@@ -1,1 +1,10 @@
 c:\users\filip\documents\visual studio 2013\Projects\CerealProject\CerealProject\bin\Debug\CerealProject.exe.config
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\bin\Debug\CerealProject.exe.config
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\bin\Debug\CerealProject.exe
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\bin\Debug\CerealProject.pdb
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.Form1.resources
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.Properties.Resources.resources
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.csproj.GenerateResource.Cache
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.exe
+C:\Users\Filip\Documents\GitHub\CerealProject\CerealProject\obj\Debug\CerealProject.pdb
